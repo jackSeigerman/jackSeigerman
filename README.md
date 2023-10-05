@@ -1,8 +1,11 @@
 ### Hi there 👋
+ https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+ https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 ![Header](./github-header-image2.png)
 <!--
 **jackSeigerman/jackSeigerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
