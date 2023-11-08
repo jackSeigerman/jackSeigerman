@@ -3,7 +3,6 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-Hi PLEASE HIRE ME!
 <!--
 **jackSeigerman/jackSeigerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
