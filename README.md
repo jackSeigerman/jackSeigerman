@@ -1,6 +1,16 @@
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jackSeigerman&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jackSeigerman&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackSeigerman&layout=compact" />
+</picture>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackSeigerman&layout=compact&theme=transparent)
 
 <!--
 **jackSeigerman/jackSeigerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
