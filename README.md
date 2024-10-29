@@ -8,7 +8,6 @@
   <br>
 
 <div align=center>
-  You should visit my <a href="https://jackseigerman.com/">Website</a>
   
    <a href="https://jackseigerman.com/" target="_blank" class="social-link" aria-label="Jack Seigerman's Website">
-                        <img src="assets/website.png" alt="Portfollio">
+                        <img src="website.gif" height = 50 alt="Portfollio">
