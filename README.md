@@ -10,4 +10,4 @@
 <div align=center>
   
    <a href="https://jackseigerman.com/" target="_blank" class="social-link" aria-label="Jack Seigerman's Website">
-                        <img src="website.gif" height = 50 alt="Portfollio">
+                        <img src="Website.gif" height = 100 alt="Portfollio">
